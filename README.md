@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá visitantes, eu sou Yuki Junior e estou em transição de carreira 🖥👨🏻‍💻
 
-<!--
-**YukiJunior/YukiJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![This is too much] (https://media.giphy.com/media/m25oKptMakmc0/giphy.gif)
 
-Here are some ideas to get you started:
+### Sobre 👨🏻‍💻
+- 🔭 Sou diretor Tec. da empresa Yukhis
+- 🔍 Em busca de Transição de Carreira
+- 🌱 Mongo, Data Science
+- 🖥 Apaixonado por tecnologia, recomeçando aos 43 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 Tecnologias
+
+
+
+
